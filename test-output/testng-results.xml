@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-12T12:58:29 IST" name="Default suite" finished-at="2023-10-12T12:58:30 IST" duration-ms="203">
+    <groups>
+    </groups>
+    <test started-at="2023-10-12T12:58:29 IST" name="Default test" finished-at="2023-10-12T12:58:30 IST" duration-ms="203">
+      <class name="com.app.TDD.demo.TestApplication">
+        <test-method signature="findapplication()[pri:0, instance:com.app.TDD.demo.TestApplication@1a6d8329]" started-at="2023-10-12T12:58:30 IST" name="findapplication" finished-at="2023-10-12T12:58:30 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findapplication -->
+        <test-method signature="findapplicationEmptyInput()[pri:0, instance:com.app.TDD.demo.TestApplication@1a6d8329]" started-at="2023-10-12T12:58:30 IST" name="findapplicationEmptyInput" finished-at="2023-10-12T12:58:30 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findapplicationEmptyInput -->
+        <test-method signature="findapplicationInvalidInput()[pri:0, instance:com.app.TDD.demo.TestApplication@1a6d8329]" started-at="2023-10-12T12:58:30 IST" name="findapplicationInvalidInput" finished-at="2023-10-12T12:58:30 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findapplicationInvalidInput -->
+      </class> <!-- com.app.TDD.demo.TestApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
